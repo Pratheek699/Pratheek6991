@@ -1,0 +1,176 @@
+Vehicle Modules
+Below is a list of some of the modules we are able to program for you.
+
+Engine Powertrain Control Module (PCM)
+This is one of the most well-known and common of the programmable vehicle modules. It was previously referred to as the Engine Control Module (ECM). It is basically the brains for the car's engine. Its primary function is to ensure emissions and timing systems work as they should, as well as controlling the fuel mixture.
+
+If the vehicle's check engine light is on, fails to start, or exhibits problems with engine performance, it may be a sign the ECM needs to be checked if all other mechanical problems have been ruled out.
+
+Transmission Control Module (TCM)
+Vehicles with automatic transmission systems rely on a TCM to help with gear-shifting, so performance and fuel efficiency are always optimal.
+Vehicle speed sensor (VSS)
+This sensor sends a varying frequency signal to the TCU to determine the current speed of the vehicle. The TCU uses this information to determine when a gear change should take place based in the various operating parameters. The TCU also uses a ratio between the TSS and WSS which is used to determine when to change gears. If either the TSS or WSS fails or malfunctions/becomes faulty, the ratio will be wrong which in return can cause problems like false speedometer readings and transmission slipping. To test these parts, check the resistance to make sure it's within manufacturer specs.
+
+Wheel speed sensor (WSS)
+Main article: Wheel speed sensor
+Modern automatic transmissions also have a wheel speed sensor input to determine the true speed of the vehicle to determine whether the vehicle is going downhill or uphill and also adapt gear changes according to road speeds, and also whether to decouple the torque converter at a standstill to improve fuel consumption and reduce load on running gear.
+
+Throttle position sensor (TPS)
+Main article: Throttle position sensor
+The TPS sensor along with the vehicle speed sensor are the two main inputs for most TCUs. Older transmissions use this to determine engine load, with the introduction of drive-by-wire technology, this is often a shared input between the ECU and TCU. The input is used to determine the optimum time and characteristics for a gear change according to load on the engine. The rate of change is used to determine whether a downshift is appropriate for overtaking, for example, the value of the TPS is also continually monitored during the journey and shift programmes are changed accordingly (economy, sport mode, etc.). The TCU can also reference this information with the vehicle speed sensor to determine vehicle acceleration and compare this with a nominal value; if the actual value is much higher or lower (such as driving uphill or towing a trailer) the transmission will change its gearshift patterns to suit the situation.
+
+Turbine speed sensor (TSS)
+Known as an input speed sensor (ISS). This sensor sends a varying frequency signal to the TCU to determine the current rotational speed of the input shaft or torque converter. The TCU uses the input shaft speed to determine slippage across the torque converter and potentially to determine the rate of slippage across the bands and clutches. This information is vital to regulate the application of the torque converter lock-up clutch smoothly and effectively.
+
+Transmission fluid Temperature sensor (TFT)
+This may also be known as Transmission Oil Temperature. This sensor determines the fluid temperature inside the transmission. This is often used for diagnostic purposes to check ATF (Automatic Transmission Fluid) at the correct temperature. The main use of this has been as a failsafe feature to downshift the transmission if the ATF becomes extremely hot. On more modern transmissions this input allows the TCU to modify the line pressure and solenoid pressures according to the changing viscosity of the fluid based on temperature in order to improve shift comfort, and also to determine regulation of the torque converter lock-up clutch.
+
+Kick down switch
+One of the most common inputs into a TCU is the kick down switch which is used to determine if the accelerator pedal has been depressed past full throttle.[3] Traditionally this was required on older transmissions with a simple logic in order to ensure maximum acceleration. When activated the transmission downshifts into the lowest permissible gear based on current road speed to use the full power reserves of the engine. This is still present in most transmissions though is no longer necessary to use in most circumstances because the TCU uses the throttle position sensor, the rate of change, and driver characteristics to determine whether a downshift may be necessary, thus eliminating the traditional need for this switch.
+
+Brake light switch
+
+If a vehicle complaint is related to how it shifts gears (such:w as unpredictability, or shifting into the wrong gear), a look at the TCM may be in order. We can help program new transmission modules if faulty ones need to be replaced.
+
+Body Control Module (BCM)
+A vehicle's body control module controls a large variety of functions related to its body, such as door locks, lights, windows, and comfort controls.
+
+2019 BMW 230I AUTOMATIC (2019) DATA
+BODYWORK
+BODY TYPE	4/5 seater sedan/saloon
+NUMBER OF DOORS	4
+DESIGNER	
+DIMENSIONS & WEIGHTS
+WHEELBASE	3274 mm	128.9 inches
+TRACK/TREAD (FRONT)	1350 mm	53.1 inches
+TRACK/TREAD (REAR)	1350 mm	53.1 inches
+LENGTH	4600 mm	181.1 inches
+WIDTH	1740 mm	68.5 inches
+HEIGHT	1950 mm	76.8 inches
+GROUND CLEARANCE		
+LENGTH:WHEELBASE RATIO	1.41	
+KERB WEIGHT	1730 kg	3814 lb
+WEIGHT DISTRIBUTION	
+FUEL TANK CAPACITY	65 litres	14.3 [17.2] UK [US] gal.
+AERODYNAMICS
+DRAG COEFFICIENT	
+FRONTAL AREA	
+CDA	
+ENGINE
+ENGINE TYPE	naturally aspirated petrol
+ENGINE MANUFACTURER	Benz
+ENGINE CODE	
+CYLINDERS	Straight 6
+CAPACITY	2.9 litre
+2860 cc
+(174.528 cu in)
+BORE × STROKE	72 × 117 mm
+2.83 × 4.61 in
+BORE/STROKE RATIO	0.62
+VALVE GEAR	side valve (SV)
+2 valves per cylinder
+12 valves in total
+MAXIMUM POWER OUTPUT	40.6 PS (40 bhp) (29.8 kW)
+at 2250 rpm
+SPECIFIC OUTPUT	14 bhp/litre
+0.23 bhp/cu in
+MAXIMUM TORQUE	
+SPECIFIC TORQUE	
+ENGINE CONSTRUCTION	
+SUMP	
+COMPRESSION RATIO	4.75:1
+FUEL SYSTEM	1 Ze carb
+BMEP (BRAKE MEAN EFFECTIVE PRESSURE)	
+MAXIMUM RPM	
+CRANKSHAFT BEARINGS	4
+ENGINE COOLANT	Water
+UNITARY CAPACITY	476.67 cc
+ASPIRATION	Normal
+COMPRESSOR	N/A
+INTERCOOLER	None
+CATALYTIC CONVERTER	N
+PERFORMANCE
+ACCELERATION 0-80KM/H (50MPH)	
+ACCELERATION 0-60MPH	
+ACCELERATION 0-100KM/H	
+ACCELERATION 0-160KM/H (100MPH)	
+STANDING QUARTER-MILE	
+STANDING KILOMETRE	
+MAXIMUM SPEED	80 km/h (50 mph)
+POWER-TO-WEIGHT RATIO	23.44 PS/tonne (1000 kg)
+17.24 kW/tonne (1000 kg)
+23.12 bhp/tonne (1000 kg)
+0.01 bhp/lb
+WEIGHT-TO-POWER RATIO	58 kg/kW
+96.88 lb/bhp
+
+Failure of a BCM can be caused by a number of things such as an accident, water or heat damage, or long-term wear and tear. When this happens, it can cause a number of performance and start-up issues, as well as issues with the car's automatic locks, radio, or clock.
+
+If you have a vehicle with a faulty BCM that needs replacing, let us get it programmed correctly for you.
+Airbag/Restraint Control Module (RCM)
+If you've ever been involved in a vehicular incident that caused an airbag to deploy, you can thank your vehicle's RCM for that. Its job is to determine whether or not your airbag should be deployed or seatbelt pre-tensioners should be tightened in the event of a crash.
+
+If your vehicle's RCM needs to be replaced or reprogrammed, let us correctly program it for you.
+
+Power Seat Control Module
+The power seat control module controls various comfort-related functions in a vehicle, such as seat position and heat.
+
+If a vehicle's power seats are not functioning as expected and a fault is found with its power seat control module, it may need to be replaced and subsequently reprogrammed. We have plenty of experience with these modules and can take care of this for you.
+
+Priority Modules
+There are a multitude of other modules considered lower priority because they don't have much to do with the actual performance and operation of a vehicle. Among these are:
+Tailgate/Blind Spot Module
+Navigation/GPS Module
+Cruise Control Module
+Power or Heated Seat Modules
+Power Window Modules
+
+2020 BMW 230I AUTOMATIC (2020) DATA
+Applicable to the USA domestic market(s).
+BODYWORK
+BODY TYPE	4/5 seater fixed-head coupé
+NUMBER OF DOORS	2
+DESIGNER	
+DIMENSIONS & WEIGHTS
+WHEELBASE	2690 mm	105.9 inches
+TRACK/TREAD (FRONT)	1521 mm	59.9 inches
+TRACK/TREAD (REAR)	1557 mm	61.3 inches
+LENGTH	4437 mm	174.7 inches
+WIDTH	1773 mm	69.8 inches
+HEIGHT	1417 mm	55.8 inches
+GROUND CLEARANCE		
+LENGTH:WHEELBASE RATIO	1.65	
+KERB WEIGHT	1536 kg	3386 lb
+WEIGHT DISTRIBUTION	51.1% front
+FUEL TANK CAPACITY	51.9 litres	11.4 [13.7] UK [US] gal.
+AERODYNAMICS
+DRAG COEFFICIENT	
+FRONTAL AREA	
+CDA	
+ENGINE
+ENGINE TYPE	turbocharged petrol
+ENGINE MANUFACTURER	BMW
+ENGINE CODE	
+CYLINDERS	Straight 4
+CAPACITY	2 litre
+1998 cc
+(121.925 cu in)
+BORE × STROKE	82 × 94.6 mm
+3.23 × 3.72 in
+BORE/STROKE RATIO	0.87
+VALVE GEAR	double overhead camshaft (DOHC)
+4 valves per cylinder
+16 valves in total
+MAXIMUM POWER OUTPUT	251 PS (248 bhp) (185 kW)
+at 5200 rpm
+SPECIFIC OUTPUT	124.1 bhp/litre
+2.03 bhp/cu in
+MAXIMUM TORQUE	350 Nm (258 ft·lb) (35.7 kgm)
+at 1450-4800 rpm
+SPECIFIC TORQUE	175.18 Nm/litre
+2.12 ft·lb/cu3
+ENGINE CONSTRUCTION	
+SUMP	wet sumped
+COMPRESSION RATIO	10.2:1
+FUEL SYSTEM	direct petrol injection
+BMEP (BRAKE MEAN EFFECTIVE PRESSURE)	2201.3 kPa (319.3 psi)
